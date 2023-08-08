@@ -1,2 +1,2 @@
 # Insurance-claim-prediction
-"Predict medical insurance claim outcomes using data analytics and ML for efficient processing."
+The "Insurance Claim Prediction for Medical Data" project aims to leverage advanced data analytics and machine learning techniques to predict insurance claim outcomes within the medical domain. This project focuses on enhancing the efficiency and accuracy of insurance claim processing, benefiting both healthcare providers and insurance companies. By analyzing historical medical data and claim details, the project strives to provide valuable insights that can optimize claim assessment, reduce processing time, and enhance overall decision-making
